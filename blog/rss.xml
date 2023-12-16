@@ -28,7 +28,6 @@
 <p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content:encoded>
             <category>facebook</category>
             <category>hello</category>
-            <category>docusaurus</category>
         </item>
     </channel>
 </rss>
