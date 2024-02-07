@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[512],{4352:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"V\u1ec1 T\u1ebft","permalink":"/en/blog/vetet","unlisted":false},{"title":"Welcome","permalink":"/en/blog/welcome","unlisted":false}]}')}}]);

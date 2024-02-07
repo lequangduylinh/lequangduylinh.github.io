@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[824],{4358:e=>{e.exports=JSON.parse('[{"label":"newyear","permalink":"/en/blog/tags/newyear","count":1},{"label":"hello","permalink":"/en/blog/tags/hello","count":1}]')}}]);

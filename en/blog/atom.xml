@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lequangduylinh.github.io/en/blog</id>
     <title>Giuse Lê Quang Duy Linh Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-07-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lequangduylinh.github.io/en/blog"/>
     <subtitle>Giuse Lê Quang Duy Linh Blog</subtitle>
     <icon>https://lequangduylinh.github.io/en/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Về Tết]]></title>
+        <id>https://lequangduylinh.github.io/en/blog/vetet</id>
+        <link href="https://lequangduylinh.github.io/en/blog/vetet"/>
+        <updated>2024-07-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AN TỬ VÀ TRỢ TỬ THEO GIÁO HUẤN CỦA GIÁO]]></summary>
+        <content type="html"><![CDATA[<p><strong>AN TỬ VÀ TRỢ TỬ THEO GIÁO HUẤN CỦA GIÁO
+HỘI</strong></p>
+<p>Môn học: Luân lý Y-Sinh học Công giáo<br>
+<!-- -->Giáo sư: Trần Như Ý Lan, M.D.<br>
+<!-- -->Học viên: Nguyễn Khánh Duy, S.J.</p>
+<p>Bài viết là một nỗ lực
+tìm hiểu vấn đề an tử và trợ tử theo giáo huấn Giáo Hội. Tác giả cố gắng làm
+sáng tỏ những khác biệt liên quan đến thuật ngữ, đồng thời phân tích những luận
+cứ khác nhau ủng hộ lập trường cho phép an tử và trợ tử, từ đó, chỉ ra những giới
+hạn của những luận lý này và trình bày quan điểm Giáo Hội về tính chất thánh
+thiêng của sự sống. Chỉ một mình Thiên Chúa mới có quyền trên sự sống. Sự sống
+là một quà tặng được uỷ thác cho con người chứ không như một thứ con người có
+quyền sở hữu tuyệt đối. Cuối cùng, tác giả đề nghị một vài hướng giải pháp cho
+vấn đề an tử và trợ tử theo niềm tin Ki-tô giáo.</p>]]></content>
+        <author>
+            <name>Giuse Duy Linh</name>
+            <uri>https://lequangduylinh.github.io/</uri>
+        </author>
+        <category label="newyear" term="newyear"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://lequangduylinh.github.io/en/blog/welcome</id>
