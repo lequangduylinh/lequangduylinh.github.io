@@ -21,3 +21,7 @@ thiêng của sự sống. Chỉ một mình Thiên Chúa mới có quyền trê
 là một quà tặng được uỷ thác cho con người chứ không như một thứ con người có
 quyền sở hữu tuyệt đối. Cuối cùng, tác giả đề nghị một vài hướng giải pháp cho
 vấn đề an tử và trợ tử theo niềm tin Ki-tô giáo.
+
+![Hinh meo](E:\blog\lequangduylinh.github.io\blog\2024-07-02-vet-tet\hinhmeo.jpg "Hinh con meo")
+
+
