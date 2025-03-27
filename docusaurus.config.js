@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Giuse Lê Quang Duy Linh',
   tagline: 'Giuse Le Quang Duy Linh',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/avatar_corgi.jpg',
 
   // Set the production url of your site here
   url: 'https://lequangduylinh.github.io',
@@ -69,7 +69,7 @@ const config = {
         title: 'Giuse Duy Linh',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/avatar_corgi.jpg',
         },
         items: [
           // {
