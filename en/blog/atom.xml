@@ -2,60 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lequangduylinh.github.io/en/blog</id>
     <title>Giuse Lê Quang Duy Linh Blog</title>
-    <updated>2024-07-02T00:00:00.000Z</updated>
+    <updated>2025-01-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lequangduylinh.github.io/en/blog"/>
     <subtitle>Giuse Lê Quang Duy Linh Blog</subtitle>
-    <icon>https://lequangduylinh.github.io/en/img/favicon.ico</icon>
+    <icon>https://lequangduylinh.github.io/en/img/avatar_corgi.jpg</icon>
     <entry>
-        <title type="html"><![CDATA[Về Tết]]></title>
-        <id>https://lequangduylinh.github.io/en/blog/vetet</id>
-        <link href="https://lequangduylinh.github.io/en/blog/vetet"/>
-        <updated>2024-07-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AN TỬ VÀ TRỢ TỬ THEO GIÁO HUẤN CỦA GIÁO]]></summary>
-        <content type="html"><![CDATA[<p><strong>AN TỬ VÀ TRỢ TỬ THEO GIÁO HUẤN CỦA GIÁO
-HỘI</strong></p>
-<p>Môn học: Luân lý Y-Sinh học Công giáo<br>
-<!-- -->Giáo sư: Trần Như Ý Lan, M.D.<br>
-<!-- -->Học viên: Nguyễn Khánh Duy, S.J.</p>
-<p>Bài viết là một nỗ lực
-tìm hiểu vấn đề an tử và trợ tử theo giáo huấn Giáo Hội. Tác giả cố gắng làm
-sáng tỏ những khác biệt liên quan đến thuật ngữ, đồng thời phân tích những luận
-cứ khác nhau ủng hộ lập trường cho phép an tử và trợ tử, từ đó, chỉ ra những giới
-hạn của những luận lý này và trình bày quan điểm Giáo Hội về tính chất thánh
-thiêng của sự sống. Chỉ một mình Thiên Chúa mới có quyền trên sự sống. Sự sống
-là một quà tặng được uỷ thác cho con người chứ không như một thứ con người có
-quyền sở hữu tuyệt đối. Cuối cùng, tác giả đề nghị một vài hướng giải pháp cho
-vấn đề an tử và trợ tử theo niềm tin Ki-tô giáo.</p>
-<p><img loading="lazy" src="e:%5Cblog%5Clequangduylinh.github.io%5Cblog%5C2024-07-02-vet-tet%5Chinhmeo.jpg" alt="Hinh meo" title="Hinh con meo" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>Giuse Duy Linh</name>
-            <uri>https://lequangduylinh.github.io/</uri>
-        </author>
-        <category label="newyear" term="newyear"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://lequangduylinh.github.io/en/blog/welcome</id>
-        <link href="https://lequangduylinh.github.io/en/blog/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
+        <title type="html"><![CDATA[Việc Canh Tân Các Chức Nhỏ - Tư Tế Thừa Tác Và Phổ Quát]]></title>
+        <id>https://lequangduylinh.github.io/en/blog/canhtancacchucnho</id>
+        <link href="https://lequangduylinh.github.io/en/blog/canhtancacchucnho"/>
+        <updated>2025-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1.	Các chức nhỏ trong Hội Thánh]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="1các-chức-nhỏ-trong-hội-thánh">1.	Các chức nhỏ trong Hội Thánh<a href="https://lequangduylinh.github.io/en/blog/canhtancacchucnho#1c%C3%A1c-ch%E1%BB%A9c-nh%E1%BB%8F-trong-h%E1%BB%99i-th%C3%A1nh" class="hash-link" aria-label="Direct link to 1.	Các chức nhỏ trong Hội Thánh" title="Direct link to 1.	Các chức nhỏ trong Hội Thánh">​</a></h2>
+<p>Ở thế kỷ (TK) thứ II qua bức thư của Đức Giáo Hoàng Cornêliô, ngoài linh mục và phó tế còn có các chức khác: phụ phó tế, giúp lễ, trừ tà, đọc sách và giữ cửa. Các tác vụ này không phải là chức thánh vì không được đặt tay, <strong>nó chỉ là sự triển khai vai trò chức Phó tế nhằm đáp ứng nhu cầu mục vụ</strong>.</p>
+<p>Vào thế kỷ IV, 5 tác vụ trên được gọi là <em>“các chức nhỏ”</em> và thêm vào đó là chức <strong>Cắt tóc</strong> được thiết lập để trao trước khi trao các chức khác. <strong>Vai trò của các chức nhỏ không còn được hiểu là sự triển khai vai trò chức Phó tế, <u>nhưng như một điều kiện để thử thách</u> các ứng viên.</strong></p>
+<p>Sang thế kỷ V, quy định rằng các ứng viên chỉ được lãnh nhận chức Phó tế sau khi đã lãnh nhận các chức nhỏ. <strong>Như thế, các chức nhỏ giờ được hiểu như những <u>điều kiện bắt buộc</u> trong bậc thang tiến đến chức Phó tế</strong>. Tuy nhiên, theo thời gian vai trò của các chức nhỏ bắt đầu bị lu mờ.</p>
+<p><strong>Sang thế kỷ X, các chức nhỏ dần dần được khôi phục như ở thế kỷ V, các chức nhỏ là <em>điều kiện bắt buộc</em> trong bậc thang tiến đến chức Phó tế.</strong>
+Mục đích của các chức này, theo suy tư của Thánh Tôma Aquinô (+1274), các chức khác nhau là để minh chứng sự khôn ngoan của Thiên Chúa. Các chức khác nhau là để nâng đỡ những yếu đuối khác nhau của loài người chúng ta, để mở rộng con đường nên thánh cho nhiều người.</p>
+<p>Giáo huấn của Công Đồng Trento, chức tư tế đóng vai trò quan trọng, cho nên các chức khác nhằm phục vụ chức tư tế. Không thể lãnh nhận chức tư tế thừa tác nếu chưa lãnh nhận các chức khác. Công Đồng Trento quy định có 7 chức và được chia thành chức lớn và chức nhỏ.</p>
 <ul>
-<li><code>2019-05-30-welcome.md</code></li>
-<li><code>2019-05-30-welcome/index.md</code></li>
+<li>Ba chức lớn: Linh mục – Phó tế – Phụ Phó tế.</li>
+<li>Bốn chức nhỏ: Giúp lễ – Trừ tà – Đọc sách - Giữ cửa. Tất cả các chức này chỉ được trao ban sau khi ứng viên đã lãnh chức cắt tóc. (DS 1765)</li>
 </ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img loading="lazy" alt="Docusaurus Plushie" src="https://lequangduylinh.github.io/en/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2giáo-huấn-hội-thánh-từ-công-đồng-vaticanô-ii">2.	Giáo huấn Hội Thánh từ Công Đồng Vaticanô II<a href="https://lequangduylinh.github.io/en/blog/canhtancacchucnho#2gi%C3%A1o-hu%E1%BA%A5n-h%E1%BB%99i-th%C3%A1nh-t%E1%BB%AB-c%C3%B4ng-%C4%91%E1%BB%93ng-vatican%C3%B4-ii" class="hash-link" aria-label="Direct link to 2.	Giáo huấn Hội Thánh từ Công Đồng Vaticanô II" title="Direct link to 2.	Giáo huấn Hội Thánh từ Công Đồng Vaticanô II">​</a></h2>
+<p>Ngày 15.08.1972, Đức Giáo Hoàng Phaolô VI đã ban hành Tự sắc Ministeria quaedam để canh tân các chức nhỏ:</p>
+<ul>
+<li>Thứ nhất, Hội Thánh không ban chức cắt tóc nữa. Việc gia nhập hàng giáo sĩ được liên kết với chức Phó tế.</li>
+<li>Thứ hai, chỉ có hai tác vụ phải giữ: Đọc sách và Giúp lễ. “chức” được gọi là “tác vụ” và “phong chức” được gọi “trao tác vụ”.</li>
+<li>Thứ ba, hai tác vụ Đọc sách và Giúp lễ có thể được trao cho giáo dân, nhưng phải là nam giới.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="21-ý-nghĩa-của-việc-canh-tân-các-chức-nhỏ">2.1 Ý nghĩa của việc canh tân các chức nhỏ<a href="https://lequangduylinh.github.io/en/blog/canhtancacchucnho#21-%C3%BD-ngh%C4%A9a-c%E1%BB%A7a-vi%E1%BB%87c-canh-t%C3%A2n-c%C3%A1c-ch%E1%BB%A9c-nh%E1%BB%8F" class="hash-link" aria-label="Direct link to 2.1 Ý nghĩa của việc canh tân các chức nhỏ" title="Direct link to 2.1 Ý nghĩa của việc canh tân các chức nhỏ">​</a></h3>
+<p>Việc canh tân các chức nhỏ trong Hội Thánh Công Giáo là một nỗ lực để diễn tả giáo huấn của Hội Thánh, đáp ứng nhu cầu mục vụ trong từng thời đại, đồng thời nhấn mạnh sự tham gia của toàn thể giáo dân vào sứ vụ cứu độ.</p>
+<p>Việc canh tân không làm thay đổi bản chất của tác vụ thánh, mà nhằm đáp ứng nhu cầu mục vụ trong từng thời đại. <strong>Giáo luật nhấn mạnh rằng thừa tác vụ trong Hội Thánh có ba cấp bậc: Giám mục, Linh mục và Phó tế, được trao ban qua Bí tích Truyền Chức Thánh.</strong></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="3chức-tư-tế-thừa-tác-và-chức-tư-tế-phổ-quát">3.	Chức tư tế thừa tác và chức tư tế phổ quát<a href="https://lequangduylinh.github.io/en/blog/canhtancacchucnho#3ch%E1%BB%A9c-t%C6%B0-t%E1%BA%BF-th%E1%BB%ABa-t%C3%A1c-v%C3%A0-ch%E1%BB%A9c-t%C6%B0-t%E1%BA%BF-ph%E1%BB%95-qu%C3%A1t" class="hash-link" aria-label="Direct link to 3.	Chức tư tế thừa tác và chức tư tế phổ quát" title="Direct link to 3.	Chức tư tế thừa tác và chức tư tế phổ quát">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="31-nền-tảng-thánh-kinh">3.1 Nền tảng Thánh Kinh:<a href="https://lequangduylinh.github.io/en/blog/canhtancacchucnho#31-n%E1%BB%81n-t%E1%BA%A3ng-th%C3%A1nh-kinh" class="hash-link" aria-label="Direct link to 3.1 Nền tảng Thánh Kinh:" title="Direct link to 3.1 Nền tảng Thánh Kinh:">​</a></h3>
+<p>Chức tư tế trong Cựu Ước được phát triển cách tiệm tiến. Điều này được nói đến trong Ngũ Thư; Sammuel, 1 Sử biên niên.</p>
+<p>Từ cổ thời, các tư tế thường là những người cha trong gia đình, người trưởng của bộ tộc, vua của quốc gia. Đến thời thẩm phán, các tư tế thuộc chi tộc Lê vi và thượng tế là người đứng đầu các tư tế thuộc chi tộc này.</p>
+<p>Chức năng của tư tế theo Đnl 33,8-10: Thỉnh ý Thiên Chúa – Giảng dạy Lề Luật – Tế Lễ.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="32các-giai-đoạn-phát-triển">3.2	Các giai đoạn phát triển:<a href="https://lequangduylinh.github.io/en/blog/canhtancacchucnho#32c%C3%A1c-giai-%C4%91o%E1%BA%A1n-ph%C3%A1t-tri%E1%BB%83n" class="hash-link" aria-label="Direct link to 3.2	Các giai đoạn phát triển:" title="Direct link to 3.2	Các giai đoạn phát triển:">​</a></h3>
+<p><em>a. Giai đoạn TK II-III</em>: bắt đầu gọi các Giám mục là tư tế.</p>
+<p>Ngài là tư tế tối cao vì là người dâng lễ. Vì chỉ có 1 Thánh lễ với sự chủ tọa của Giám mục cho nên Linh mục đoàn và phó tế hiệp thông với ngài.</p>
+<p><em>b. Giai đoạn TK V-XII</em>:</p>
+<p>Từ TK V, để đáp ứng nhuu cầu mục vụ, Linh mục được dâng lễ cho cộng đoàn, cho nên Linh mục được gọi là tư tế. Giáo hoàng Inôcentê I là người đầu tiên gọi linh mục là “tư tế nhị phẩm”.</p>
+<p><em>c. Giai đoạn Từ TK IX</em>:</p>
+<p>Thần học Bí tích Thánh thể thay đổi dẫn đến Thánh lễ không còn là của toàn thể cộng đoàn mà dường như là việc của riêng linh mục. Các tín hữu bỗng nhiên trở thành “khán giả”, do không hiểu tiếng Latinh và nhiều lời nguyện trước đây dùng cho cộng đoàn giờ dành riêng cho linh mục.</p>
+<p><em>d. Giai đoạn TK XIII-XX</em>:</p>
+<p>Gặp sự chống đối của Tin Lành vì Hội Thánh Công Giáo nhấn mạnh chức tư tế thừa tác và làm lu mờ chức tư tế cộng đồng. Họ đưa ra các luận chứng chống đối:</p>
+<ul>
+<li>Truyền chức là do Hội Thánh thiết lập chứ không phải Bí tích do Chúa Kitô lập.</li>
+<li>Bởi Bí tích rửa tội, các Kitô hữu đều là tư tế.</li>
+<li>Không có chức linh mục hữu hình và cũng không có quyền tế lễ, linh mục chỉ có chức năng rao giảng Tin mừng.</li>
+</ul>
+<p><strong>Công đồng Trento định tín:</strong></p>
+<ul>
+<li>Hy tế và chức tư tế gắn bó mật thiết với nhau và do Chúa Giêsu thiết lập.</li>
+<li>Vì có hy tế hữu hình là Thánh Thể, nên phải nhìn nhận là có chức tư tế hữu hình do Chúa thiết lập (x. DS 1764).</li>
+<li>Bí tích Truyền Chức là một trong bảy Bí tích, được cử hành bằng những lời và những dấu chỉ hữu hình nhằm ban ân sủng (x. DS 1766).</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="33giáo-huấn-ngày-nay-của-hội-thánh">3.3	Giáo huấn ngày nay của Hội Thánh<a href="https://lequangduylinh.github.io/en/blog/canhtancacchucnho#33gi%C3%A1o-hu%E1%BA%A5n-ng%C3%A0y-nay-c%E1%BB%A7a-h%E1%BB%99i-th%C3%A1nh" class="hash-link" aria-label="Direct link to 3.3	Giáo huấn ngày nay của Hội Thánh" title="Direct link to 3.3	Giáo huấn ngày nay của Hội Thánh">​</a></h3>
+<p>Công Đồng Vaticanô II, qua “Hiến chế về Phụng vự” và “Hiến chế về Hội Thánh” đã đưa ra bốn mảng Giáo huấn sau:</p>
+<ul>
+<li><strong>Tham gia tích cực</strong>: Mọi tín hữu được mời gọi tham gia đầy đủ, ý thức và tích cực vào các cử hành Phụng vụ. Đây là quyền lợi và bổn phận của người đã được rửa tội.</li>
+<li><strong>Tính công khai</strong>: Phụng vụ là cử hành công khai của Hội Thánh, không phải là hành động riêng tư, và được tổ chức dưới sự hướng dẫn của các Giám mục.</li>
+<li><strong>Vai trò riêng biệt</strong>: Mỗi người (thừa tác viên hay tín hữu) có vai trò riêng và phải thực hiện đúng vai trò của mình theo quy định của Phụng vụ.</li>
+<li><strong>Tương quan giữa các chức tư tế</strong>: Chức tư tế phổ quát của tín hữu và chức tư tế phẩm trật tuy khác nhau về bản chất nhưng có mối liên hệ mật thiết và cùng tham gia vào chức tư tế duy nhất của Chúa Kitô.</li>
+</ul>
+<p><strong><em>Nhận định:</em></strong></p>
+<ul>
+<li>Thứ nhất, Giáo huấn tái khẳng định vai trò chức tư tế phổ quát của các tín hữu. Tuy nhiên, điều đó không có nghĩa là giáo dân có thể đồng tế với các Linh mục (x. DS 3850).</li>
+<li>Thứ hai, Giáo huấn cũng lưu ý đặc biệt: “Cần bảo vệ trật tự đã được Chúa Giêsu thiết lập, nhằm tránh một dạng ‘giáo sĩ hóa giáo dân’ vốn làm nghèo đi chức tư tế thừa tác của Linh mục” (KCN 28).</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="4mở-rộng">4.	Mở rộng<a href="https://lequangduylinh.github.io/en/blog/canhtancacchucnho#4m%E1%BB%9F-r%E1%BB%99ng" class="hash-link" aria-label="Direct link to 4.	Mở rộng" title="Direct link to 4.	Mở rộng">​</a></h2>
+<p>Từ công đồng Vaticano II, vai trò của giáo dân được nhấn mạnh:</p>
+<ul>
+<li><strong>Canh tân các tác vụ Đọc sách và Giúp lễ:</strong>
+Tự sắc Ministeria Quaedam (1972) của Đức Phaolô VI đã mở rộng các tác vụ này cho giáo dân, nhưng chỉ giới hạn cho nam giới.</li>
+<li>Tông Huấn Christifideles laici – Gioan Phaolô II – 1988: <strong>Nhấn mạnh sự tham gia của giáo dân vào sứ vụ cứu độ</strong>, không chỉ giới hạn ở hàng giáo sĩ. Giáo dân tham gia vào ba chức vụ của Đức Kitô: tư tế, ngôn sứ và vương giả thông qua Bí tích Rửa Tội và Thêm Sức. Các mục tử có trách nhiệm nhìn nhận và cổ võ các chức vụ, tác vụ của giáo dân.</li>
+<li><strong>Cho phép giáo dân đảm nhận một số nhiệm vụ</strong> như công bố Lời Chúa, chủ tọa buổi cầu nguyện, ban phép Thánh Tẩy hay cho rước lễ khi cần thiết. Tuy nhiên, vẫn phải tuân theo quy định của giáo luật và không làm thay đổi bản chất của họ. Cần tránh nguy cơ “giáo sĩ hóa” giáo dân và lạm dụng việc “thay thế” nếu không thực sự cần thiết. Do đó, giáo dân cần một sự huấn luyện cần thiết cho vai trò của mình trong đời sống Hội Thánh.</li>
+<li><strong>Mở rộng các tác vụ Đọc sách và Giúp lễ cho giáo dân</strong>, vốn trước đây chỉ dành cho những người chuẩn bị tiến lên chức thánh.</li>
+</ul>
+<p>Ngày 10.01.2021, Đức Giáo Hoàng Phanxicô, qua Tự sắc Spiritus Domini, điều chỉnh thừa tác vụ đọc sách và giúp lễ: <strong>Thừa tác vụ đọc sách và giúp lễ được trao cho giáo dân đủ tuổi và đủ đức tính do Hội Đồng Giám Mục ấn định trong nghi thức phụng vụ đã được quy định. Ứng viên của hai tác vụ đó không chỉ là nam giới.</strong></p>
+<p>Ngày 10.05.2021, Đức Giáo Hoàng Phanxicô đã ban hành Tự sắc Antiquum Ministerium, thiết lập tác vụ Giáo lý viên giáo dân phục vụ bền vững dành cho giáo hội địa phương.</p>]]></content>
         <author>
             <name>Giuse Duy Linh</name>
             <uri>https://lequangduylinh.github.io/</uri>
         </author>
-        <category label="hello" term="hello"/>
+        <category label="kienthuc" term="kienthuc"/>
     </entry>
 </feed>
