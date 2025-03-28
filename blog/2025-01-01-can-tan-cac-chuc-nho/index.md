@@ -8,6 +8,8 @@ tags: [kienthuc]
 ## 1.	Các chức nhỏ trong Hội Thánh
 Ở thế kỷ (TK) thứ II qua bức thư của Đức Giáo Hoàng Cornêliô, ngoài linh mục và phó tế còn có các chức khác: phụ phó tế, giúp lễ, trừ tà, đọc sách và giữ cửa. Các tác vụ này không phải là chức thánh vì không được đặt tay, **nó chỉ là sự triển khai vai trò chức Phó tế nhằm đáp ứng nhu cầu mục vụ**.
 
+<!--truncate-->
+
 Vào thế kỷ IV, 5 tác vụ trên được gọi là *“các chức nhỏ”* và thêm vào đó là chức **Cắt tóc** được thiết lập để trao trước khi trao các chức khác. **Vai trò của các chức nhỏ không còn được hiểu là sự triển khai vai trò chức Phó tế, <u>nhưng như một điều kiện để thử thách</u> các ứng viên.**
 
 Sang thế kỷ V, quy định rằng các ứng viên chỉ được lãnh nhận chức Phó tế sau khi đã lãnh nhận các chức nhỏ. **Như thế, các chức nhỏ giờ được hiểu như những <u>điều kiện bắt buộc</u> trong bậc thang tiến đến chức Phó tế**. Tuy nhiên, theo thời gian vai trò của các chức nhỏ bắt đầu bị lu mờ.
