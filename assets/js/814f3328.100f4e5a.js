@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Vi\u1ec7c Canh T\xe2n C\xe1c Ch\u1ee9c Nh\u1ecf - T\u01b0 T\u1ebf Th\u1eeba T\xe1c V\xe0 Ph\u1ed5 Qu\xe1t","permalink":"/blog/canhtancacchucnho","unlisted":false}]}')}}]);
